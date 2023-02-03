@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.facele</groupId>
 	<artifactId>websaa</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<name>websaa</name>
 	<description>Sistema de Auto Ayuda SAA</description>
 
